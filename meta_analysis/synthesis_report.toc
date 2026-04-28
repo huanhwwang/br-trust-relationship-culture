@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}Introduction and Theoretical Framework}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}The Ingroup--Outgroup Boundary as the Central Problem}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Three Converging Theoretical Frameworks}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Neuroimaging as an Adjudicator}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}The Present Study}{3}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Methods}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Coordinate Database}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Analysis A — 2$\times $2 Social Relationship $\times $ Culture}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}A1. ROI centroid interaction}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}A2. mPFC subregion dissociation}{4}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}A3. Functional cognitive decoding}{4}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}A4. Simplified MACM}{4}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}A5. Cell-wise ALE}{4}{subsubsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.3}Analysis B — Economic Behaviour Paradigm}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Results I — General Social Judgment (2$\times $2 Analysis)}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Pool Composition}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}mPFC Topology: The Core 2$\times $2 Interaction}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}ALE Maps by Cell}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Cognitive Decoding Interaction}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}MACM Network Profiles}{7}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Results II — Economic Behaviour with Strangers}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}ALE Peak Clusters}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}mPFC Subregion Dissociation}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Functional Cognitive Decoding}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}MACM Connectivity Profiles}{9}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Convergence with 2$\times $2 Stranger Cells}{9}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Integrated Discussion}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Two Architectures of the Ingroup--Outgroup Boundary}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Self-Construal Theory Confirmed at the Circuit Level}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}The Stranger Response Confirms Emancipation Theory}{10}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Boundary Tightness: Categorical vs.\ Gradient in mPFC Topology}{10}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}The Caudate Dissociation: Two Models of Friendship}{10}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}TPJ Suppression: Boundary Dissolution in Neural Terms}{11}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Economic Games as the Behavioural Consequence}{11}{subsection.5.7}%
+\contentsline {section}{\numberline {6}Caveats and Limitations}{11}{section.6}%
+\contentsline {section}{\numberline {7}Implications}{12}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Study Design}{12}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Cross-Cultural Neuroscience Theory}{12}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Broader Implications}{12}{subsection.7.3}%

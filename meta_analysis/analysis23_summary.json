@@ -1,0 +1,10 @@
+{
+  "EuA_studies": 40,
+  "EuA_coordinates": 40,
+  "EA_studies": 26,
+  "EA_coordinates": 26,
+  "mPFC_y_shift_mm": 8.23,
+  "mPFC_z_shift_mm": 12.63,
+  "mPFC_2D_shift_mm": 15.07,
+  "verdict_distinct_subregion": true
+}

@@ -1,0 +1,26 @@
+{
+  "EuA_Stranger": {
+    "k": 8,
+    "n_coords": 25,
+    "mPFC_centroid_y": 38.2,
+    "mPFC_centroid_z": -9.3
+  },
+  "EuA_Close": {
+    "k": 6,
+    "n_coords": 18,
+    "mPFC_centroid_y": 48.7,
+    "mPFC_centroid_z": 5.7
+  },
+  "EA_Stranger": {
+    "k": 6,
+    "n_coords": 21,
+    "mPFC_centroid_y": 51.0,
+    "mPFC_centroid_z": 5.3
+  },
+  "EA_Close": {
+    "k": 6,
+    "n_coords": 17,
+    "mPFC_centroid_y": 50.2,
+    "mPFC_centroid_z": 9.1
+  }
+}

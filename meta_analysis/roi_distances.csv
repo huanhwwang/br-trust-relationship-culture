@@ -1,0 +1,11 @@
+ROI,EuA_n,EA_n,EuA_x,EuA_y,EuA_z,EA_x,EA_y,EA_z,dist_mm,interpretation
+vmPFC,11,3,5.3,39.6,-9.5,3.3,46.0,-5.3,7.8,Affective valuation; EuA dominant in trust literature
+dmPFC,3,7,2.7,53.3,14.0,-0.3,52.9,14.0,3.0,Mentalising / partner inference; EA dominant in self+social literature
+TPJ_R,3,2,54.0,-52.7,18.0,53.0,-58.0,22.0,6.7,Social inference / belief updating; present in both pools
+TPJ_L,1,1,-52.0,-56.0,20.0,-52.0,-60.0,20.0,4.0,
+amygdala_R,2,2,23.0,-3.0,-18.0,21.0,-3.0,-17.0,2.2,Threat/salience detection; EA shows larger signal in stranger contexts
+amygdala_L,2,1,-21.0,-3.0,-16.0,-20.0,-4.0,-16.0,1.4,
+caudate,9,3,4.2,12.2,2.6,8.0,11.3,4.7,4.4,Reward prediction / reputation tracking; convergent across pools
+aInsula_R,3,1,39.3,21.3,1.7,36.0,16.0,4.0,6.7,Social norm violation / interoception; EuA norm violation studies
+ACC,4,2,2.0,30.0,21.0,3.0,24.0,24.0,6.8,Conflict monitoring; convergent across pools
+precuneus,0,3,,,,0.7,-60.0,30.0,—,Self-referential / episodic; stronger in EA cooperation studies
